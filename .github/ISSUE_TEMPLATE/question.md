@@ -1,9 +1,9 @@
 ---
 name: Question
-about: The issue tracker is not for questions. Please ask questions on https://stackoverflow.com/questions/tagged/katalon-studio.
+about: The issue tracker is not for questions. Please ask questions on https://forum.katalon.com/categories/katalon-analytics.
 
 ---
 
 🚨 The issue tracker is not for questions 🚨
 
-If you have a question, please ask it on https://stackoverflow.com/questions/tagged/katalon-studio.
+If you have a question, please ask it on https://forum.katalon.com/categories/katalon-analytics.
