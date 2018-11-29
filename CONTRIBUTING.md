@@ -71,6 +71,11 @@ Don't feel bad if the developers can't reproduce the issue right away. They will
 ### Follow Your Issue
 
 Once submitted, your report will go into the [issue tracking](https://github.com/katalon-analytics/katalon-analytics/issues) workflow. Be sure to understand what will happen next, so you know what to expect, and how to continue to assist throughout the process.
+We use a bot to help us manage issues. This bot currently:
+* Automatically closes any issue marked `needs-more-information` if there has been no response in the past 7 days.
+* Automatically locks issues 45 days after they are closed.
+
+If you believe the bot got something wrong, please open a new issue and let us know.
 
 # Thank You!
 
