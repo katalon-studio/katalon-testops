@@ -9,6 +9,7 @@ about: Create a report to help us improve
 <!-- Use Help > Report Issue to prefill these. -->
 - Katalon Studio Version:
 - OS Version:
+- Browser Version:
 
 Steps to Reproduce:
 
