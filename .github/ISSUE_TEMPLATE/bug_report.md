@@ -18,8 +18,8 @@ Steps to Reproduce:
 
 
 Expected behavior: 
-A clear and concise description of what you expected to happen.
+
 
 Screenshots:
-add screenshots to help explain your problem.
+
 
