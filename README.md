@@ -13,7 +13,7 @@ With Katalon TestOps, you can:
 * Leverage automation testing by transforming and visualizing test data.
 * Analyze test results.
 * Maximize testing capacity with remote execution. 
-* Seamlessly integrate with tools, such as Katalon Studio and Jira.
+* Seamlessly integrate with tools, such as Katalon Studio, Katalon TestCloud and Jira.
 
 
 ## Documentation
@@ -30,10 +30,13 @@ For instructions on using Katalon TestOps, visit our documentation website: [Ful
 * File a bug in [GitHub Issues](https://github.com/katalon-analytics/katalon-analytics/issues).
 
 ## Companion products
-
 ### Katalon Studio
 
-[Katalon Studio](https://www.katalon.com/katalon-studio/) is an intelligent, robust, and scalable automation solution built for beginners and expert testers everywhere. Katalon Studio revolutionizes the use of open-source test automation frameworks such as Selenium and Appium by eliminating their technical complexities. This revolution allows developers and QAs to set up, create, run, report, and manage their automated tests for Web, Mobile, and API Testings efficiently. 
+[Katalon Studio](https://www.katalon.com/katalon-studio/) is an intelligent, robust, and scalable automation solution built for beginners and expert testers everywhere. Katalon Studio revolutionizes the use of open-source test automation frameworks such as Selenium and Appium by eliminating their technical complexities. This revolution allows developers and QAs to set up, create, run, report, and manage their automated tests for Web, Mobile, and API Testings efficiently.
+
+### Katalon TestCloud
+
+[Katalon TestCloud](https://www.katalon.com/testcloud/) is a cloud-based test execution environment where you can automate test scripts across the most updated browsers and operating systems. TestCloud saves time and reduces the cost of creating physical infrastructure to simulate the same platforms for test automation.
 
 ### Katalon Recorder
 
