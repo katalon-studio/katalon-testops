@@ -13,7 +13,7 @@ With Katalon TestOps, you can:
 * Leverage automation testing by transforming and visualizing test data.
 * Analyze test results.
 * Maximize testing capacity with remote execution. 
-* Seamlessly integrate with tools, such as Katalon Studio, Katalon TestCloud and Jira.
+* Seamlessly integrate with tools, such as Katalon Studio, Katalon TestCloud, and Jira.
 
 
 ## Documentation
