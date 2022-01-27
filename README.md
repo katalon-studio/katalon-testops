@@ -4,15 +4,14 @@
 </a>
 </h1>
 
-**Katalon TestOps** is a web-based application that provides dynamic perspectives and an insightful look at your automation testing data.
-
+**Katalon TestOps** is an enterprise-class platform for QA orchestration, test analytics, and advanced reports. Katalon TestOps provides dashboards and reports on the status of product quality.
 ## Features
 
 With Katalon TestOps, you can:
 
 * Leverage automation testing by transforming and visualizing test data.
 * Analyze test results.
-* Maximize testing capacity with remote execution. 
+* Maximize testing capacity with remote execution.
 * Seamlessly integrate with tools, such as Katalon Studio, Katalon TestCloud, and Jira.
 
 
@@ -23,9 +22,9 @@ For instructions on using Katalon TestOps, visit our documentation website: [Ful
 ## Community and support
 
 * Read our [documentation](https://docs.katalon.com/katalon-analytics/docs/overview.html).
-* Learn more about orchestration of test automation and DevOps by enrolling in [Katalon Academy](https://academy.katalon.com/#katalon-testops) courses.
+* Learn about test orchestration and DevOps by enrolling in [Katalon Academy](https://academy.katalon.com/#katalon-testops) courses.
 * Ask questions on the [Katalon Community](https://forum.katalon.com/c/katalon-analytics) forum.
-* For community contribution, refer to our [contribution guidelines](CONTRIBUTING.md).
+* For community contributions, refer to our [contribution guidelines](CONTRIBUTING.md).
 * Vote for [Popular Feature Requests](https://github.com/katalon-analytics/katalon-analytics/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request+sort%3Areactions-%2B1-desc).
 * File a bug in [GitHub Issues](https://github.com/katalon-analytics/katalon-analytics/issues).
 
@@ -40,4 +39,4 @@ For instructions on using Katalon TestOps, visit our documentation website: [Ful
 
 ### Katalon Recorder
 
-[Katalon Recorder](https://www.katalon.com/katalon-recorder-ide/) is a free and lightweight tool to kickstart test automation from zero without sacrificing the future. It helps you gain confidence in your release right away by allowing you to create and execute many tests quickly, efficiently and robustly. Later on, it helps you optimize testing activities with reusable test artifacts and the ability to categorize and execute tests flexibly. Down the road, it helps you scale without losing investment by providing easy migration paths to Katalon Studio and popular Selenium WebDriver frameworks + languages.
+[Katalon Recorder](https://www.katalon.com/katalon-recorder-ide/) is a Selenium IDE-compatible record & playback tool for browser automation testing. You can use it to record, debug, execute & manage test cases, and export test suites to multiple programming languages such as C#, Java, Ruby, Python, Groovy, Robot Framework, etc.
