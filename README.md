@@ -9,11 +9,9 @@
 
 With Katalon TestOps, you can:
 
-* Leverage automation testing by transforming and visualizing test data.
-* Analyze test results.
 * Maximize testing capacity with remote execution.
+* Analyze and visualize test data in advanced reports and analytics.
 * Seamlessly integrate with tools, such as Katalon Studio, Katalon TestCloud, and Jira.
-
 
 ## Documentation
 
@@ -25,8 +23,7 @@ For instructions on using Katalon TestOps, visit our documentation website: [Ful
 * Learn about test orchestration and DevOps by enrolling in [Katalon Academy](https://academy.katalon.com/#katalon-testops) courses.
 * Ask questions on the [Katalon Community](https://forum.katalon.com/c/katalon-analytics) forum.
 * For community contributions, refer to our [contribution guidelines](CONTRIBUTING.md).
-* Vote for [Popular Feature Requests](https://github.com/katalon-analytics/katalon-analytics/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request+sort%3Areactions-%2B1-desc).
-* File a bug in [GitHub Issues](https://github.com/katalon-analytics/katalon-analytics/issues).
+* For bug reports, submit a ticket at [Katalon Support](https://support.katalon.com/hc/en-us).
 
 ## Companion products
 ### Katalon Studio
