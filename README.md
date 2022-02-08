@@ -23,7 +23,7 @@ For instructions on using Katalon TestOps, visit our documentation website: [Ful
 * Learn about test orchestration and DevOps by enrolling in [Katalon Academy](https://academy.katalon.com/#katalon-testops) courses.
 * Ask questions on the [Katalon Community](https://forum.katalon.com/c/katalon-analytics) forum.
 * For community contributions, refer to our [contribution guidelines](CONTRIBUTING.md).
-* For bug reports, submit a ticket at [Katalon Support](https://support.katalon.com/hc/en-us).
+* For bug reports or feature requests, submit a ticket at [Katalon Support](https://support.katalon.com/hc/en-us).
 
 ## Companion products
 ### Katalon Studio
